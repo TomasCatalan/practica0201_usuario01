@@ -1,7 +1,7 @@
 x = input("introduzca su nombre")
 y = int(input("introduzca un numero entero"))
-z = 0
+z = 0 
 
 while z < (y):
-    print(x)
+    print(x) 
     z += 1
